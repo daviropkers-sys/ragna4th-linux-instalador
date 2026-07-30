@@ -1,6 +1,5 @@
-# ragna4th-linux-instalador
-Instalador e atualizador não oficial do Ragna4th para Linux, com downloads do servidor oficial, verificação SHA-256 e uso via Wine/Lutris.
-# Ragna4th Linux Installer
+
+# Ragna4th Linux Instalador
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Platform-Linux-FCC624?logo=linux\&logoColor=black)
