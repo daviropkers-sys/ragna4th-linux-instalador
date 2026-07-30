@@ -186,4 +186,4 @@ A licença cobre somente o código presente neste repositório. Ela não cobre o
 
 ## Créditos
 
-Desenvolvido por Davi com auxílio do ChatGPT na análise de compatibilidade e implementação.
+Desenvolvido por Davi R. Santos
