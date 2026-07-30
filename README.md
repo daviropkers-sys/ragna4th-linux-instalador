@@ -36,6 +36,30 @@ Este projeto oferece uma alternativa nativa em Python que consulta o manifesto o
 
 O instalador em si não depende do Wine. O Wine ou Lutris é necessário somente para executar os arquivos do jogo.
 
+## Compatibilidade
+
+### Testado
+
+- Debian 13 x86_64;
+- KDE Plasma 6;
+- Python 3.13;
+- Lutris com GE-Proton.
+
+### Compatibilidade esperada
+
+O instalador deve funcionar em qualquer distribuição Linux x86_64 que possua
+Python 3.10 ou mais recente, incluindo Ubuntu, Linux Mint, Fedora, Arch Linux,
+CachyOS, openSUSE e SteamOS.
+
+A execução do jogo depende da compatibilidade do Wine ou Proton, dos drivers
+gráficos e do sistema anticheat.
+
+### Não suportado
+
+- Linux ARM;
+- Sistemas de 32 bits;
+- Python anterior à versão 3.10.
+
 ## Instalação
 
 Baixe o arquivo `instalar_ragna4th.py` deste repositório.
